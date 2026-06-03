@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sleek premium ambient circular vector card -->
+    <path
+        android:pathData="M54,14 A40,40 0 1,1 14,54 A40,40 0 0,1 54,14 Z"
+        android:fillColor="#DF231645" />
+
+    <!-- Curved Headphone Arch Band -->
+    <path
+        android:pathData="M34,54 C34,36 42,28 54,28 C66,28 74,36 74,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Left Cushion Ear Cup -->
+    <path
+        android:pathData="M26,48 H34 V64 H26 C22.7,64 22,61.8 22,58 V54 C22,50.2 22.7,48 26,48 Z"
+        android:fillColor="#FF70D4FF" />
+
+    <!-- Right Cushion Ear Cup -->
+    <path
+        android:pathData="M74,48 H82 C85.3,48 86,50.2 86,54 V58 C86,61.8 85.3,64 82,64 H74 Z"
+        android:fillColor="#FF70D4FF" />
+
+    <!-- Floating Elegant Music Note inside arch -->
+    <path
+        android:pathData="M52,40 V58 C52,61.3 49.3,64 46,64 C42.7,64 40,61.3 40,58 C40,54.7 42.7,52 46,52 A5.9,5.9 0 0,1 52,54.5 V44 H62 V50 H52 Z"
+        android:fillColor="#FFD0BCFF" fillType="nonZero" />
+</vector>

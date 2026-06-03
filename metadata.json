@@ -1,0 +1,6 @@
+{
+  "name": "Audio Memorizer",
+  "description": "An interactive tool to memorize songs and audio files with synchronized, click-to-seek lyrics, custom categories, and pleasant customizable backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
